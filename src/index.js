@@ -1,3 +1,4 @@
 const sampleNumber= 1;
 const sampleNumberB= 1;
-console.log(`Hello number ${sampleNumber}${sampleNumberB}`);
+const sampleNumberC= 1;
+console.log(`Hello number ${sampleNumber}${sampleNumberB}${sampleNumberC}`);
